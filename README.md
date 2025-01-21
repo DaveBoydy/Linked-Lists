@@ -1,2 +1,5 @@
 # Linked-Lists
-Implement a Linked List
+
+Implement a custom Linked List
+
+### Type to run: node main.js
